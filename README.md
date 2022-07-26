@@ -1,8 +1,7 @@
 # Health-Arcane-public
 Download and install Health Arcane from above apk
-
-<br />
 Check-out below snapshots
+
 <br />
 <p align = "center">Login and Signup</p>
 <div>
