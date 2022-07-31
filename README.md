@@ -88,11 +88,15 @@ Check-out below snapshots
 
 <br />
 <p align = "center">Project screen recording</p>
-https://user-images.githubusercontent.com/81978998/182017772-516fec7a-ca1b-4621-bed1-8b17a541aa76.mp4
+
+
+https://user-images.githubusercontent.com/81978998/182018228-cd140d07-45f7-4438-a0f4-aafe7d53867a.mp4
+
+
 
 <br />
 </br />
 <p align = "center">Backend screen recording</p>
 
-
+https://user-images.githubusercontent.com/81978998/182018158-d16e5214-f715-40af-bcd4-1ec0470b8a90.mp4
 
